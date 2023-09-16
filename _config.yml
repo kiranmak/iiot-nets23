@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+description: 1st Workshop on Enhanced Network Techniques and Technologies for the Industrial IoT to Cloud Continuum (IIoT-Nets)
+
+title: IIoT-NETS'23
+
+github: [metadata]
+   #project_tagline: Custom tagline
+   #owner_name: kiranmak@gmail.com
+
+markdown: kramdown
