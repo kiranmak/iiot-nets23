@@ -3,11 +3,14 @@ layout: default
 title: Home
 ---
 
+![image info](./assets/img/Workshop-Poster.png)
+
 <style>
 red { color: #C66868}
 </style>
 
-### ACM SIGCOMM Workshop on Enhanced Network Techniques and Technologies for the Industrial IoT to Cloud Continuum 
+# Enhanced Network Techniques and Technologies for the Industrial IoT to Cloud Continuum
+#### (Organized by ACM SIGCOMM)
 
 *Colocated with ACM SIGCOMM, was held at Columbia University, NY, USA  on September 10 2023.*
 
@@ -19,12 +22,12 @@ The goal of the workshop is to feature recent research and initiatives related t
 
 ### Workshop Organizers
 
-### General Co-Chairs
+#### General Co-Chairs
 
 - Kiran Makhijani, Futurewei USA
 - Stuart Clayman,  University College London, UK
 
-### Workshop PC Co-Chairs
+#### Workshop PC Co-Chairs
 
 - Richard Li, Futurewei, USA
 - Luca Foschini, University of Bologna, Italy
@@ -38,9 +41,11 @@ The goal of the workshop is to feature recent research and initiatives related t
 
 - Information about the conference at [ACM SIGCOMM-23](https://conferences.sigcomm.org/sigcomm/2023)
 
-### Presentations [Goto](iiot-nets23.html)
+### Presentations 
  - Please find all the Keynotes, invited talks and paper presentations here [Presentations](iiot-nets23.html)
  - IIOT-NETS'23 papers are available from [ACM DL] (https://dl.acm.org/doi/proceedings/10.1145/3609389)
+
+---
 
 ## About the Workshop
 
