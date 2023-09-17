@@ -88,13 +88,14 @@ In this talk, we will explore how ML methods can be used in conjunction with dat
 ---
 <h2 style="color:#C62828;text-align: center;">List of Accepted Papers and Presentations</h2>
 
-### Paper 1: "FactoryDC: Network and Resource Planning..."
+### Paper 1: "FactoryDC: Network and Resource Planning for Emerging Applications in Future Factories"
 #### Presenter: Marco Reisacher
 
 Bio:Marco is currently pursuing a PhD degree with University of Stuttgart, in
 collaboration with Siemens. His research interests include network monitoring, resource management in networks, and machine learning. His recent work looks into network planning for factory networks based on real-world application demands.
 
-### Paper 2: "FabOS: Hooking up Container Platforms..."
+
+### Paper 2: "FabOS: Hooking up Container Platforms with Time-Sensitive Networks"
 #### Presenter: Manuel Eppler
 Bio: I studied math and computer science at Tuebingen university. Since 2022, I am a PhD Student at Siemens AG and the chair of communication systems at Tuebingen university.
 I am going to present the FabOS architecture: a Kubernetes and Time-Sensitive-Networking-based architecture that provides flexible processing and deterministic networking for future industrial factories.
@@ -104,17 +105,18 @@ I am going to present the FabOS architecture: a Kubernetes and Time-Sensitive-Ne
 Bio: John Hayes is a PhD student at Birmingham City University, UK. His research focusses on the integration and evaluation of blockchain technology for predominantly security-focussed use-cases within the IoT and edge computing domains.
 
 
-### Paper 4. "Supporting vPLC Networking over TSN with...".
+### Paper 4. "Supporting vPLC Networking over TSN with Kubernetes in Industry 4.0"
 #### Presenter: Lorenzo Rosa
 Bio: Lorenzo Rosa is a PhD student at the University of Bologna, Italy. His research focuses on the integration of innovative networking technologies, such as kernel-bypassing and time-sensitive networking, into next-generation edge cloud platforms. In the industrial domain, Lorenzo is exploring the use of modern networking hardware to support the effective integration of Information
 Technologies within critical industrial processes.
 
-### Paper 5. “Operation and Control Networks a Systematic approach”
+### Paper 5. “Operations and Control Networks (OCN) Model: A Systematic Approach to Operational and Information Technology Convergence"
+
 #### Presenter: Kiran Makhijani
 
 Bio: Kiran is Principal Engineer at Futurewei Technologies, USA. Kiran works on Future Networks research and their path to Standards in 5G and B5g context. She is currently working on research and development of data path and control plane mechanisms for Industrial Automation.
 
-### Paper 6. "Context-Aware Attribute Based Access..."
+### Paper 6. "Context-Aware Attribute Based Access Control for Cloud-based SCADA Systems"
 #### Presenter: Kasturi Routray (remote)
 
 Bio:I am currently pursuing my 6th semester of PhD in the
@@ -125,8 +127,10 @@ techniques(mainly access control and authorization schemes) for Cyber-Physical
 Systems (CPS) Network resources.
 
 
-### Paper 7. "Improving BLE Fingerprint Radio Maps..”
+### Paper 7. "Improving BLE Fingerprint Radio Maps: A Method based on Fuzzy Clustering and Weighted Interpolation"
+
 #### Presenter: Hannah B. Pasandi
+
 Bio: Hannah is a Postdoctoral Fellow Researcher at UC Berkeley's NetSys lab, where she works with Sylvia Ratnasamy and Scott Shenker. Her research interests encompass a wide spectrum of wireless technologies, with a particular focus on Bluetooth, Wi-Fi, LoRaWAN, and Massive-MIMO. Currently, Hannah is deeply immersed in research centered around Privacy Auditing and Mitigations in 5G networks, Satellite Communication, and Wi-Fi technology.
 
 During her Ph.D., she conducted one-of-its-kind framework for designing on-device self-driven communication protocols for next-generation wireless technologies. Her approach involved proposing AI-driven solutions using Reinforcement Learning (RL) and Graph Neural Networks (GNN), which had a profound impact on the development of cutting-edge wireless communication protocols. Hannah's dedication and innovative research continue to shape the future of wireless technology.

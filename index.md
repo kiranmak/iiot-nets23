@@ -41,7 +41,7 @@ The goal of the workshop is to feature recent research and initiatives related t
 
 - Information about the conference at [ACM SIGCOMM-23](https://conferences.sigcomm.org/sigcomm/2023)
 
-### Presentations 
+### View Papers and Presentations
  - Please find all the Keynotes, invited talks and paper presentations here [Presentations](iiot-nets23.html)
  - IIOT-NETS'23 papers are available from [ACM DL] (https://dl.acm.org/doi/proceedings/10.1145/3609389)
 
