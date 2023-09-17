@@ -2,6 +2,11 @@
 layout: agenda
 title: IIoT-NETs Workshop
 ---
+
+<style>
+red { color: #C66868}
+</style>
+
 <!-- <h1 style="text-align: center;">1st Workshop on New IP and Beyond</h1> -->
 
 <div style="clear: both;">
@@ -72,6 +77,8 @@ In this presentation, we examine the current applications of wireless Operationa
  By conducting an extensive measurement campaign, we acquire detailed insights into various aspects including coverage maps, reference signal power, channel quality indicators, and throughput. Moreover, we analyze end-to-end delay measurements across different channel conditions, considering 5G quality of service priorities and varying traffic loads. This comprehensive analysis aids in shaping a potential trajectory for the digitalization of industries, ushering in a realm of cyber-physical continuity that necessitates precise communication to enable seamless end-to-end services.
  Drawing from the insights of the EU project DETERMINISTIC6G, we tackle this challenge through a novel architecture that integrates Time-Sensitive Networking (TSN) and Deterministic Networking (DetNet). This architecture also incorporates data-driven network performance awareness and the concept of digital twins to enable determinism and enhance safety within 6G networks. In conclusion, we offer a glimpse into the future by exploring the integration of environmental awareness into communication links. This integration holds the promise of advancing the deterministic and reliable behavior of wireless communication within controlled environments.
 
+[Talk: Wireless IIoT](./presentation/italk1-hans-peter.pdf)
+
 <h3 style="color:#C66868;">Invited Talk II: Integration of Machine Learning and Networking Intents for the Orchestration of Distributed IIoT Devices.</h3>
 
 <h3 id="talk2"> Invited-Talk-II: Antonino Angi</h3>
@@ -84,6 +91,7 @@ Antonio Angi received his M.Sc. degree in Computer Engineering from Politecnico 
 “Properly connecting processing nodes with sensors and optimization on physical or wireless layers are two of the goals that Industrial IoT (IIoT) experts are trying to meet, along with high-speed data transmission and scalability for different topologies and needs. But how can we program IIoT devices to achieve low transmission latency while ensuring network operations align with the required traffic load and user intents?
 In this talk, we will explore how ML methods can be used in conjunction with data-plane programming languages to efficiently profile network loads while using intents to help administrators and programmers customize their networks according to their needs.”
 
+[Talk: Distributed IIoT](./presentation/italk2-Angi_talk.pdf)
 
 ---
 <h2 style="color:#C62828;text-align: center;">List of Accepted Papers and Presentations</h2>
@@ -94,27 +102,35 @@ In this talk, we will explore how ML methods can be used in conjunction with dat
 Bio:Marco is currently pursuing a PhD degree with University of Stuttgart, in
 collaboration with Siemens. His research interests include network monitoring, resource management in networks, and machine learning. His recent work looks into network planning for factory networks based on real-world application demands.
 
+[Talk: Factory DC](./presentation/paper1-factoryDC.pdf)
 
 ### Paper 2: "FabOS: Hooking up Container Platforms with Time-Sensitive Networks"
 #### Presenter: Manuel Eppler
 Bio: I studied math and computer science at Tuebingen university. Since 2022, I am a PhD Student at Siemens AG and the chair of communication systems at Tuebingen university.
 I am going to present the FabOS architecture: a Kubernetes and Time-Sensitive-Networking-based architecture that provides flexible processing and deterministic networking for future industrial factories.
 
+[Talk: FabOS](./presentation/paper2-FabOS_presentation.pdf)
+
 ### Paper 3: SymbIoT: Towards An Extensible Blockchain Integration Testbed for IIoT
 #### Presenter: John Hayes, Birmingham City University
 Bio: John Hayes is a PhD student at Birmingham City University, UK. His research focusses on the integration and evaluation of blockchain technology for predominantly security-focussed use-cases within the IoT and edge computing domains.
 
+[Talk: SymbIOT](./presentation/paper3-SymbIoTpdf)
 
 ### Paper 4. "Supporting vPLC Networking over TSN with Kubernetes in Industry 4.0"
 #### Presenter: Lorenzo Rosa
 Bio: Lorenzo Rosa is a PhD student at the University of Bologna, Italy. His research focuses on the integration of innovative networking technologies, such as kernel-bypassing and time-sensitive networking, into next-generation edge cloud platforms. In the industrial domain, Lorenzo is exploring the use of modern networking hardware to support the effective integration of Information
 Technologies within critical industrial processes.
 
+[Talk: vPLC](./presentation/paper4-vplc.pdf)
+
 ### Paper 5. “Operations and Control Networks (OCN) Model: A Systematic Approach to Operational and Information Technology Convergence"
 
 #### Presenter: Kiran Makhijani
 
 Bio: Kiran is Principal Engineer at Futurewei Technologies, USA. Kiran works on Future Networks research and their path to Standards in 5G and B5g context. She is currently working on research and development of data path and control plane mechanisms for Industrial Automation.
+
+[Talk: OCN](./presentation/paper5-systematic-OCN-kiran.pdf)
 
 ### Paper 6. "Context-Aware Attribute Based Access Control for Cloud-based SCADA Systems"
 #### Presenter: Kasturi Routray (remote)
@@ -126,6 +142,7 @@ cyber-physical systems". I work on developing lightweight cryptographic
 techniques(mainly access control and authorization schemes) for Cyber-Physical
 Systems (CPS) Network resources.
 
+[Talk: SCADA](./presentation/paper6-IIoT-Net Presentation-Kasturi.pdf)
 
 ### Paper 7. "Improving BLE Fingerprint Radio Maps: A Method based on Fuzzy Clustering and Weighted Interpolation"
 
